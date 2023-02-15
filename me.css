@@ -49,16 +49,15 @@ html {
     
     display: flex;
     align-items: center;
-    padding: 0 40px;
+    padding: 0 51px;
     background-color: #A9A9A9;
     color: #000000;
     font-weight: 600;
-    font-size: 19px;
+    font-size: 22px;
     text-decoration-line: underline;
     box-shadow:inset;
     text-shadow:#000000 1px 0 10px;
     flex-wrap: wrap;
-    
 }
 
 
